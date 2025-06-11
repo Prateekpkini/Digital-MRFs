@@ -1,0 +1,9 @@
+{
+  "inflow": 1275,
+  "materials": [
+    { "_id": "Plastic", "total": 500 },
+    { "_id": "Metal", "total": 200 },
+    { "_id": "Glass", "total": 275 },
+    { "_id": "Organic", "total": 300 }
+  ]
+}

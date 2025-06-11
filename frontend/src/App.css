@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f7f6;
+  color: #333;
+}
+
+.dashboard-container {
+  max-width: 900px;
+  margin: 2rem auto;
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.05);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  color: #388e3c;
+  margin-bottom: 10px;
+}
+
+.stats-section {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+
+.stat-box {
+  background: #e8f5e9;
+  border-left: 6px solid #4CAF50;
+  padding: 1.2rem;
+  border-radius: 10px;
+  text-align: center;
+  width: 40%;
+}
+
+.graph-section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.button-section {
+  text-align: center;
+  margin-top: 30px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 28px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #388e3c;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 1.5rem;
+  color: #4CAF50;
+}
