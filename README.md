@@ -1,2 +1,3 @@
 # Digital-MRFs
 Digital MRFs: Tracking Waste for Smarter Management
+This project solves the issue of manual and error-prone waste tracking in rural Material Recovery Facilities (MRFs) by digitizing the process using a MERN stack application. It enables operators to record waste inflow and outflow, categorize materials, and generate visual reports through an intuitive dashboard. The system supports offline-first data entry using service workers and IndexedDB, and syncs automatically when the internet is available, ensuring uninterrupted usage in low-connectivity areas. It streamlines documentation, enables data-driven decisions, and enhances transparency across stakeholders.
